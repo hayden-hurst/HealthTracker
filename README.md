@@ -24,6 +24,7 @@ A C# Windows Forms application for tracking health metrics. Users can:
    ```bash
    git clone https://github.com/yourusername/health-tracker.git
    cd health-tracker
+   ```
 
 
 2. **Install packages:**
@@ -32,9 +33,10 @@ A C# Windows Forms application for tracking health metrics. Users can:
   
   ```bash
   nuget restore
+  ```
 
 3. **Open the solution in Visual Studio:**
 
-  Open HealthTracker.sln
+   Open HealthTracker.sln
   
-  Press F5 to build and run the application
+   Press F5 to build and run the application
