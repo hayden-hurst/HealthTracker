@@ -29,7 +29,7 @@ A C# Windows Forms application for tracking health metrics. Users can:
 
 2. **Install packages:**
 
-  Make sure NuGet CLI is available (or just build the solution in Visual Studio).
+   Make sure NuGet CLI is available (or just build the solution in Visual Studio).
   
   ```bash
   nuget restore
