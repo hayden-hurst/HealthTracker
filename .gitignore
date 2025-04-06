@@ -1,0 +1,19 @@
+# Ignore NuGet packages folder
+packages/
+
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore VS-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignore IDE settings
+.vs/
+.vscode/
+.idea/
+*.log
+*.pdb
